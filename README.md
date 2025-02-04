@@ -68,7 +68,7 @@ To customize your rich presence:
 
 ## Troubleshooting
 - Ensure you have set up a Discord Developer Application and copied the correct `ApplicationID`.
-- Verify the `ensure fivem-richpresence` line is in your `server.cfg`.
+- Verify the `ensure AD_RichPres` line is in your `server.cfg`.
 - Check your FiveM console for any errors related to the script.
 - Make sure your images for rich presence are uploaded on Discord Developer Portal.
 
