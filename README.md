@@ -18,16 +18,18 @@ Enhance your FiveM server's presence on Discord with custom rich presence featur
 1. **Download the script**
    - Clone this repository or download the ZIP file and extract it into your FiveM resources folder.
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/FiveM-Discord-Rich-Presence.git
+   git clone https://github.com/ArcticDevLabs/Rich-Presence
    ```
 2. **Move the resource**
    - Place the extracted folder in your server's `resources` directory.
 3. **Add to server.cfg**
    - Open your `server.cfg` file and add the following line:
    ```cfg
-   ensure fivem-richpresence
+   ensure AD_RichPres
    ```
-4. **Restart the server**
+4. **Update Config**
+   - Edit everything in config too your liking.    
+5. **Restart the server**
    - Restart your FiveM server and check if the rich presence is working.
 
 ## Configuration
